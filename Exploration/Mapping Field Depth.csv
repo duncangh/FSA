@@ -1,0 +1,954 @@
+official stmt,Field,depth
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LongTermNotesPayable,8
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",SeniorLongTermNotes,8
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",ConvertibleLongTermNotesPayable,8
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AvailableForSaleSecuritiesDebtSecuritiesCurrent,7
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LongTermDebtCurrent,7
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AvailableForSaleSecuritiesDebtSecuritiesCurrent,7
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AvailableForSaleSecuritiesDebtSecuritiesNoncurrent,7
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AvailableForSaleSecuritiesCurrent,7
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AvailableForSaleSecuritiesNoncurrent,7
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",EquityMethodInvestments,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherShortTermBorrowings,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredRevenueNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",BankOverdrafts,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CommercialPaper,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",TaxesPayableCurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherPostretirementDefinedBenefitPlanLiabilitiesNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AssetRetirementObligationsNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",MarketableSecuritiesCurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",MarketableSecuritiesCurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LandAndLandImprovements,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",Land,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",ShortTermBankLoansAndNotesPayable,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherLongTermDebtNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LongTermDebtAndCapitalLeaseObligationsCurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CapitalLeaseObligationsCurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",NotesAndLoansReceivableNetCurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",ShortTermBorrowings,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DefinedBenefitPensionPlanLiabilitiesNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LongTermDebtNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DerivativeLiabilitiesNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccountsReceivableNetCurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherDeferredCreditsNoncurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccruedIncomeTaxesCurrent,6
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RetainedEarningsAccumulatedDeficit,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RetainedEarningsAccumulatedDeficit,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CashAndCashEquivalentsAtCarryingValue,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPensionAndOtherPostretirementPlansNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccountsPayableCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccruedIncomeTaxesNoncurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DebtCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherLiabilitiesNoncurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",TreasuryStockValue,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",FiniteLivedIntangibleAssetsNet,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccountsPayableAndAccruedLiabilitiesCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AdditionalPaidInCapitalCommonStock,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccruedLiabilitiesCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",ShortTermInvestments,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LongTermInvestments,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LongTermDebtAndCapitalLeaseObligations,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",PropertyPlantAndEquipmentGross,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",EmployeeRelatedLiabilitiesCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AdditionalPaidInCapital,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredTaxLiabilitiesNoncurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredRevenueCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPensionAndOtherPostretirementPlansNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CapitalLeasedAssetsGross,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RestrictedCashAndCashEquivalentsAtCarryingValue,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",BuildingsAndImprovementsGross,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredRevenueAndCreditsCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DerivativeLiabilitiesCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredCompensationLiabilityClassifiedNoncurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",MembersEquity,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RestrictedCashAndInvestmentsCurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationNoncurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OffMarketLeaseUnfavorable,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccruedEnvironmentalLossContingenciesNoncurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CashEquivalentsAtCarryingValue,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LeaseholdImprovementsGross,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RetainedEarningsAppropriated,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RegulatoryLiabilityNoncurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossCumulativeChangesInNetGainLossFromCashFlowHedgesEffectNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossCumulativeChangesInNetGainLossFromCashFlowHedgesEffectNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CapitalLeaseObligationsNoncurrent,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,5
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",IntangibleAssetsNetExcludingGoodwill,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredCompensationEquity,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherLiabilitiesCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",PreferredStockValue,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RestrictedCashAndCashEquivalentsNoncurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CommonStockValueOutstanding,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DueToRelatedPartiesCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",InventoryNet,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherPrepaidExpenseCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RetainedEarningsAccumulatedDeficit,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",InventoryFinishedGoods,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DecommissioningFundInvestments,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",InventoryNoncurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RegulatoryLiabilityCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CommonStockValue,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LiabilitiesCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DerivativeAssetsNoncurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",PreferredStockValueOutstanding,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredTaxLiabilitiesCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",ReceivablesNetCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",PrepaidTaxes,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",InventoryWorkInProcess,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",PrepaidExpenseCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DerivativeAssetsCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LiabilitiesNoncurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",PropertyPlantAndEquipmentNet,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RegulatoryAssetsNoncurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",InventoryRawMaterialsAndSupplies,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",StockholdersEquity,4
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OilAndGasPropertySuccessfulEffortMethodNet,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AssetsCurrent,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",IncomeTaxesReceivable,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredTaxAssetsLiabilitiesNetNoncurrent,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",AssetsNoncurrent,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherAssetsCurrent,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",OtherAssetsNoncurrent,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",Goodwill,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",Liabilities,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DeferredTaxAssetsLiabilitiesNetCurrent,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",MinorityInterest,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",FundsHeldForClients,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",DefinedBenefitPlanAssetsForPlanBenefitsNoncurrent,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",CostsInExcessOfBillingsOnUncompletedContractsOrProgramsExpectedToBeCollectedWithinOneYear,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",RegulatoryAssetsCurrent,3
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",Assets,2
+"104000 - Statement - Statement of Financial Position, Classified, Statement [Table]",LiabilitiesAndStockholdersEquity,2
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OilAndGasProductionExpense,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AvailableForSaleSecuritiesGrossRealizedGainLossNet,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",MarketableSecuritiesRealizedGainLossExcludingOtherThanTemporaryImpairments,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfPurchasedOilAndGas,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherDirectCostsOfHotels,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OccupancyCosts,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfPurchasedPower,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ElectricUtilityRevenue,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ManagementFeesRevenue,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",FoodAndBeverageCostOfSales,13
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",TaxesExcludingIncomeAndExciseTaxes,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfDeferredSalesCommissions,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RealEstateTaxExpense,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfDeferredSalesCommissions,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",TechnologyServicesCosts,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OccupancyCosts,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",FoodAndBeverageCostOfSales,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherDirectCostsOfHotels,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",FoodAndBeverageRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",TenantReimbursements,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GoodwillImpairmentLoss,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ElectricUtilityRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherHotelOperatingRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfIntangibleAssets,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GoodwillImpairmentLoss,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfPurchasedOilAndGas,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OilAndGasProductionExpense,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OccupancyRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GasDomesticRegulatedRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfIntangibleAssets,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",MarketingAndAdvertisingExpense,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfServices,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RestructuringCharges,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",FuelCosts,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OwnedPropertyManagementCosts,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RestructuringCharges,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",MarketableSecuritiesRealizedGainLossExcludingOtherThanTemporaryImpairments,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OilAndGasRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OilAndCondensateRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RevenueFromLeasedAndOwnedHotels,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfRealEstateRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SalesRevenueGoodsNet,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ImpairmentOfIntangibleAssetsFinitelived,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ManagementFeesRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OperatingLeasesIncomeStatementLeaseRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InventoryWriteDown,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OperatingLeasesIncomeStatementMinimumLeaseRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfPurchasedPower,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",TechnologyServicesRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NaturalGasProductionRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ImpairmentOfOilAndGasProperties,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DirectCostsOfLeasedAndRentedPropertyOrEquipment,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfGoodsSold,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AssetImpairmentCharges,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",HealthCareOrganizationResidentServiceRevenue,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ImpairmentOfLongLivedAssetsHeldForUse,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AvailableForSaleSecuritiesGrossRealizedGainLossNet,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",MarketingExpense,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SalesRevenueServicesNet,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AssetImpairmentCharges,12
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OccupancyRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",TaxesExcludingIncomeAndExciseTaxes,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",BusinessCombinationAcquisitionRelatedCosts,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RestructuringCharges,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",MarketingAndAdvertisingExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProvisionForLoanAndLeaseLosses,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InvestmentIncomeInterestAndDividend,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",FinancialServicesCosts,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfGoodsAndServicesSold,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnDispositionOfAssets,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProvisionForLoanAndLeaseLosses,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ImpairmentOfLongLivedAssetsHeldForUse,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnDispositionOfAssets,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfRealEstateRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",HealthCareOrganizationResidentServiceRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GoodwillImpairmentLoss,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RevenueFromLeasedAndOwnedHotels,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GoodwillImpairmentLoss,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",LaborAndRelatedExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ContractRevenueCost,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AssetRetirementObligationAccretionExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",PremiumsEarnedNet,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherSalesRevenueNet,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AssetRetirementObligationAccretionExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfDeferredSalesCommissions,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RevenueSteamProductsAndServices,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OperatingLeasesIncomeStatementLeaseRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfOtherPropertyOperatingExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfDeferredSalesCommissions,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ImpairmentOfIntangibleAssetsFinitelived,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RestructuringCharges,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",FoodAndBeverageRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OilAndCondensateRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OilAndGasRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",LicensesRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SalesRevenueServicesNet,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AssetImpairmentCharges,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AssetImpairmentCharges,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DirectCostsOfLeasedAndRentedPropertyOrEquipment,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",PolicyholderBenefitsAndClaimsIncurredNet,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ResearchAndDevelopmentExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NaturalGasProductionRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",TechnologyServicesRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OperatingLeasesIncomeStatementMinimumLeaseRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnSaleOfPropertyPlantEquipment,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SalesRevenueGoodsNet,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfGoodsSold,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GeneralAndAdministrativeExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InventoryWriteDown,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AccretionExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ImpairmentOfOilAndGasProperties,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnInvestments,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SalesRevenueNet,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",TenantReimbursements,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InvestmentIncomeInterest,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestIncomeOperating,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RealEstateTaxExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OwnedPropertyManagementCosts,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",FuelCosts,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SellingAndMarketingExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfServices,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CommunicationsAndInformationTechnology,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfIntangibleAssets,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",MarketingExpense,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GasDomesticRegulatedRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DepreciationAndAmortization,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfIntangibleAssets,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherHotelOperatingRevenue,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",LicenseCosts,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DepreciationAndAmortization,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",TechnologyServicesCosts,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfGoodsSoldSubscription,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost,11
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DepreciationAndAmortization,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SalesRevenueNet,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",Revenues,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SellingGeneralAndAdministrativeExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",BusinessCombinationAcquisitionRelatedCosts,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",FinancialServicesCosts,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherCostAndExpenseOperating,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SellingAndMarketingExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfGoodsAndServicesSold,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InvestmentIncomeInterest,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherSalesRevenueNet,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfRevenue,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GeneralAndAdministrativeExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",PremiumsEarnedNet,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DepreciationAndAmortization,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ResearchAndDevelopmentExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InvestmentIncomeNet,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",LaborAndRelatedExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnDispositionOfAssets,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",LicensesRevenue,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InvestmentIncomeInterestAndDividend,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfGoodsSoldSubscription,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AssetRetirementObligationAccretionExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AssetRetirementObligationAccretionExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",RevenueSteamProductsAndServices,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProvisionForLoanAndLeaseLosses,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",LicenseCosts,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfOtherPropertyOperatingExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnDispositionOfAssets,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",PolicyholderBenefitsAndClaimsIncurredNet,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestIncomeOperating,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnSaleOfPropertyPlantEquipment,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnSaleOfOtherAssets,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CommunicationsAndInformationTechnology,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnDispositionOfIntangibleAssets,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AccretionExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnInvestments,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ContractRevenueCost,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProvisionForLoanAndLeaseLosses,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnDispositionOfIntangibleAssets,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherSellingGeneralAndAdministrativeExpense,10
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnDispositionOfIntangibleAssets,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnDispositionOfIntangibleAssets,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestExpenseOther,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OperatingExpenses,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainLossOnSaleOfOtherAssets,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfFinancingCosts,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GrossProfit,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherNonoperatingIncomeExpense,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",SellingGeneralAndAdministrativeExpense,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",Revenues,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestExpense,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",CostOfRevenue,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherSellingGeneralAndAdministrativeExpense,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainsLossesOnExtinguishmentOfDebt,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProvisionForDoubtfulAccounts,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainsLossesOnExtinguishmentOfDebt,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherNonoperatingExpense,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherNonoperatingIncome,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestExpenseDebt,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InvestmentIncomeNet,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherCostAndExpenseOperating,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProvisionForDoubtfulAccounts,9
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestExpenseOther,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProvisionForDoubtfulAccounts,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherNonoperatingExpense,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",AmortizationOfFinancingCosts,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OperatingIncomeLoss,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GrossProfit,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainsLossesOnExtinguishmentOfDebt,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherNonoperatingIncome,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OperatingExpenses,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestExpenseDebt,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NonoperatingIncomeExpense,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestExpense,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestAndDebtExpense,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OtherNonoperatingIncomeExpense,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",GainsLossesOnExtinguishmentOfDebt,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProvisionForDoubtfulAccounts,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",PublicUtilitiesAllowanceForFundsUsedDuringConstructionAdditions,8
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",PublicUtilitiesAllowanceForFundsUsedDuringConstructionAdditions,7
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NonoperatingIncomeExpense,7
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",InterestAndDebtExpense,7
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",OperatingIncomeLoss,7
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,7
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,6
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationDuringPhaseOutPeriodNetOfTax,6
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromEquityMethodInvestments,6
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromEquityMethodInvestments,6
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DiscontinuedOperationGainLossFromDisposalOfDiscontinuedOperationBeforeIncomeTax,6
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax,6
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,6
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationDuringPhaseOutPeriodBeforeIncomeTax,6
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeTaxExpenseBenefit,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DiscontinuedOperationTaxEffectOfDiscontinuedOperation,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromEquityMethodInvestments,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromEquityMethodInvestments,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,5
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,4
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NetIncomeLossAttributableToNoncontrollingInterest,4
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,4
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProfitLoss,4
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,4
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",ProfitLoss,4
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NetIncomeLoss,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NetIncomeLoss,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperations,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperations,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",PreferredStockDividendsAndOtherAdjustments,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",EarningsPerShareBasic,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",EarningsPerShareDiluted,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsPerBasicShare,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsPerBasicShare,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",WeightedAverageNumberDilutedSharesOutstandingAdjustment,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",WeightedAverageNumberDilutedSharesOutstandingAdjustment,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromContinuingOperationsPerDilutedShare,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",WeightedAverageNumberOfDilutedSharesOutstanding,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",WeightedAverageNumberOfDilutedSharesOutstanding,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",WeightedAverageNumberOfSharesOutstandingBasic,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToNoncontrollingInterest,3
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NetIncomeLossAvailableToCommonStockholdersBasic,2
+"124000 - Statement - Statement of Income (Including Gross Margin), Statement [Table]",NetIncomeLossAvailableToCommonStockholdersBasic,2
+"124100 - Statement - Statement of Income, Statement [Table]",OilAndGasProductionExpense,13
+"124100 - Statement - Statement of Income, Statement [Table]",GoodwillImpairmentLoss,13
+"124100 - Statement - Statement of Income, Statement [Table]",OtherDirectCostsOfHotels,13
+"124100 - Statement - Statement of Income, Statement [Table]",MarketingExpense,13
+"124100 - Statement - Statement of Income, Statement [Table]",FoodAndBeverageCostOfSales,13
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfPurchasedPower,13
+"124100 - Statement - Statement of Income, Statement [Table]",RealEstateTaxExpense,13
+"124100 - Statement - Statement of Income, Statement [Table]",RestructuringCharges,13
+"124100 - Statement - Statement of Income, Statement [Table]",RestructuringCharges,13
+"124100 - Statement - Statement of Income, Statement [Table]",AssetImpairmentCharges,13
+"124100 - Statement - Statement of Income, Statement [Table]",AssetImpairmentCharges,13
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfPurchasedOilAndGas,13
+"124100 - Statement - Statement of Income, Statement [Table]",ImpairmentOfIntangibleAssetsFinitelived,13
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfIntangibleAssets,13
+"124100 - Statement - Statement of Income, Statement [Table]",ImpairmentOfLongLivedAssetsHeldForUse,13
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfIntangibleAssets,13
+"124100 - Statement - Statement of Income, Statement [Table]",TaxesExcludingIncomeAndExciseTaxes,13
+"124100 - Statement - Statement of Income, Statement [Table]",OccupancyCosts,13
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfDeferredSalesCommissions,13
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfDeferredSalesCommissions,13
+"124100 - Statement - Statement of Income, Statement [Table]",MarketableSecuritiesRealizedGainLossExcludingOtherThanTemporaryImpairments,13
+"124100 - Statement - Statement of Income, Statement [Table]",ImpairmentOfOilAndGasProperties,13
+"124100 - Statement - Statement of Income, Statement [Table]",AvailableForSaleSecuritiesGrossRealizedGainLossNet,13
+"124100 - Statement - Statement of Income, Statement [Table]",MarketingAndAdvertisingExpense,13
+"124100 - Statement - Statement of Income, Statement [Table]",GoodwillImpairmentLoss,13
+"124100 - Statement - Statement of Income, Statement [Table]",FoodAndBeverageCostOfSales,12
+"124100 - Statement - Statement of Income, Statement [Table]",TaxesExcludingIncomeAndExciseTaxes,12
+"124100 - Statement - Statement of Income, Statement [Table]",MarketingAndAdvertisingExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",ElectricUtilityRevenue,12
+"124100 - Statement - Statement of Income, Statement [Table]",TechnologyServicesCosts,12
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfPurchasedPower,12
+"124100 - Statement - Statement of Income, Statement [Table]",RealEstateTaxExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfDeferredSalesCommissions,12
+"124100 - Statement - Statement of Income, Statement [Table]",ManagementFeesRevenue,12
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfDeferredSalesCommissions,12
+"124100 - Statement - Statement of Income, Statement [Table]",GoodwillImpairmentLoss,12
+"124100 - Statement - Statement of Income, Statement [Table]",OwnedPropertyManagementCosts,12
+"124100 - Statement - Statement of Income, Statement [Table]",OccupancyCosts,12
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnDispositionOfAssets,12
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfPurchasedOilAndGas,12
+"124100 - Statement - Statement of Income, Statement [Table]",MarketableSecuritiesRealizedGainLossExcludingOtherThanTemporaryImpairments,12
+"124100 - Statement - Statement of Income, Statement [Table]",AssetRetirementObligationAccretionExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",AssetRetirementObligationAccretionExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",OtherDirectCostsOfHotels,12
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfRealEstateRevenue,12
+"124100 - Statement - Statement of Income, Statement [Table]",CommunicationsAndInformationTechnology,12
+"124100 - Statement - Statement of Income, Statement [Table]",GoodwillImpairmentLoss,12
+"124100 - Statement - Statement of Income, Statement [Table]",ImpairmentOfLongLivedAssetsHeldForUse,12
+"124100 - Statement - Statement of Income, Statement [Table]",FuelCosts,12
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnDispositionOfAssets,12
+"124100 - Statement - Statement of Income, Statement [Table]",ImpairmentOfIntangibleAssetsFinitelived,12
+"124100 - Statement - Statement of Income, Statement [Table]",OilAndGasProductionExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",DirectCostsOfLeasedAndRentedPropertyOrEquipment,12
+"124100 - Statement - Statement of Income, Statement [Table]",AvailableForSaleSecuritiesGrossRealizedGainLossNet,12
+"124100 - Statement - Statement of Income, Statement [Table]",GeneralAndAdministrativeExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfGoodsSold,12
+"124100 - Statement - Statement of Income, Statement [Table]",ImpairmentOfOilAndGasProperties,12
+"124100 - Statement - Statement of Income, Statement [Table]",AccretionExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",InventoryWriteDown,12
+"124100 - Statement - Statement of Income, Statement [Table]",ResearchAndDevelopmentExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",DepreciationAndAmortization,12
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnSaleOfPropertyPlantEquipment,12
+"124100 - Statement - Statement of Income, Statement [Table]",DepreciationAndAmortization,12
+"124100 - Statement - Statement of Income, Statement [Table]",MarketingExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfIntangibleAssets,12
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfServices,12
+"124100 - Statement - Statement of Income, Statement [Table]",SellingAndMarketingExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfIntangibleAssets,12
+"124100 - Statement - Statement of Income, Statement [Table]",AssetImpairmentCharges,12
+"124100 - Statement - Statement of Income, Statement [Table]",RestructuringCharges,12
+"124100 - Statement - Statement of Income, Statement [Table]",BusinessCombinationAcquisitionRelatedCosts,12
+"124100 - Statement - Statement of Income, Statement [Table]",LaborAndRelatedExpense,12
+"124100 - Statement - Statement of Income, Statement [Table]",RestructuringCharges,12
+"124100 - Statement - Statement of Income, Statement [Table]",ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost,12
+"124100 - Statement - Statement of Income, Statement [Table]",AssetImpairmentCharges,12
+"124100 - Statement - Statement of Income, Statement [Table]",ManagementFeesRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",OperatingLeasesIncomeStatementLeaseRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",BusinessCombinationAcquisitionRelatedCosts,11
+"124100 - Statement - Statement of Income, Statement [Table]",SellingGeneralAndAdministrativeExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",InvestmentIncomeInterestAndDividend,11
+"124100 - Statement - Statement of Income, Statement [Table]",GeneralAndAdministrativeExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfServices,11
+"124100 - Statement - Statement of Income, Statement [Table]",FinancialServicesCosts,11
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfGoodsSold,11
+"124100 - Statement - Statement of Income, Statement [Table]",OtherCostAndExpenseOperating,11
+"124100 - Statement - Statement of Income, Statement [Table]",SalesRevenueGoodsNet,11
+"124100 - Statement - Statement of Income, Statement [Table]",LaborAndRelatedExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",ContractRevenueCost,11
+"124100 - Statement - Statement of Income, Statement [Table]",ResearchAndDevelopmentExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",AssetRetirementObligationAccretionExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",SalesRevenueServicesNet,11
+"124100 - Statement - Statement of Income, Statement [Table]",InvestmentIncomeInterest,11
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnDispositionOfAssets,11
+"124100 - Statement - Statement of Income, Statement [Table]",DepreciationAndAmortization,11
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfOtherPropertyOperatingExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",AssetRetirementObligationAccretionExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",HealthCareOrganizationResidentServiceRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfRealEstateRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",DepreciationAndAmortization,11
+"124100 - Statement - Statement of Income, Statement [Table]",SellingAndMarketingExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfGoodsAndServicesSold,11
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnDispositionOfAssets,11
+"124100 - Statement - Statement of Income, Statement [Table]",OccupancyRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnDispositionOfIntangibleAssets,11
+"124100 - Statement - Statement of Income, Statement [Table]",CommunicationsAndInformationTechnology,11
+"124100 - Statement - Statement of Income, Statement [Table]",LicenseCosts,11
+"124100 - Statement - Statement of Income, Statement [Table]",GasDomesticRegulatedRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",TenantReimbursements,11
+"124100 - Statement - Statement of Income, Statement [Table]",TechnologyServicesRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",NaturalGasProductionRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",PolicyholderBenefitsAndClaimsIncurredNet,11
+"124100 - Statement - Statement of Income, Statement [Table]",OtherHotelOperatingRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",DirectCostsOfLeasedAndRentedPropertyOrEquipment,11
+"124100 - Statement - Statement of Income, Statement [Table]",OtherSellingGeneralAndAdministrativeExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",ElectricUtilityRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",TechnologyServicesCosts,11
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfGoodsSoldSubscription,11
+"124100 - Statement - Statement of Income, Statement [Table]",OilAndGasRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost,11
+"124100 - Statement - Statement of Income, Statement [Table]",FoodAndBeverageRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",OilAndCondensateRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnSaleOfPropertyPlantEquipment,11
+"124100 - Statement - Statement of Income, Statement [Table]",OperatingLeasesIncomeStatementMinimumLeaseRevenue,11
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnSaleOfOtherAssets,11
+"124100 - Statement - Statement of Income, Statement [Table]",InventoryWriteDown,11
+"124100 - Statement - Statement of Income, Statement [Table]",ProvisionForLoanAndLeaseLosses,11
+"124100 - Statement - Statement of Income, Statement [Table]",ProvisionForLoanAndLeaseLosses,11
+"124100 - Statement - Statement of Income, Statement [Table]",RevenueFromLeasedAndOwnedHotels,11
+"124100 - Statement - Statement of Income, Statement [Table]",AccretionExpense,11
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnInvestments,11
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnDispositionOfIntangibleAssets,11
+"124100 - Statement - Statement of Income, Statement [Table]",OwnedPropertyManagementCosts,11
+"124100 - Statement - Statement of Income, Statement [Table]",FuelCosts,11
+"124100 - Statement - Statement of Income, Statement [Table]",TechnologyServicesRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnInvestments,10
+"124100 - Statement - Statement of Income, Statement [Table]",FinancialServicesCosts,10
+"124100 - Statement - Statement of Income, Statement [Table]",PremiumsEarnedNet,10
+"124100 - Statement - Statement of Income, Statement [Table]",OtherSalesRevenueNet,10
+"124100 - Statement - Statement of Income, Statement [Table]",SellingGeneralAndAdministrativeExpense,10
+"124100 - Statement - Statement of Income, Statement [Table]",InvestmentIncomeNet,10
+"124100 - Statement - Statement of Income, Statement [Table]",OtherCostAndExpenseOperating,10
+"124100 - Statement - Statement of Income, Statement [Table]",OilAndCondensateRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",SalesRevenueNet,10
+"124100 - Statement - Statement of Income, Statement [Table]",OccupancyRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfGoodsAndServicesSold,10
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnSaleOfOtherAssets,10
+"124100 - Statement - Statement of Income, Statement [Table]",OperatingLeasesIncomeStatementMinimumLeaseRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,10
+"124100 - Statement - Statement of Income, Statement [Table]",OperatingExpenses,10
+"124100 - Statement - Statement of Income, Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,10
+"124100 - Statement - Statement of Income, Statement [Table]",InvestmentIncomeInterest,10
+"124100 - Statement - Statement of Income, Statement [Table]",SalesRevenueGoodsNet,10
+"124100 - Statement - Statement of Income, Statement [Table]",SalesRevenueServicesNet,10
+"124100 - Statement - Statement of Income, Statement [Table]",PolicyholderBenefitsAndClaimsIncurredNet,10
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",NaturalGasProductionRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",TenantReimbursements,10
+"124100 - Statement - Statement of Income, Statement [Table]",OilAndGasRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",HealthCareOrganizationResidentServiceRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",LicensesRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",OtherHotelOperatingRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",InvestmentIncomeInterestAndDividend,10
+"124100 - Statement - Statement of Income, Statement [Table]",InterestIncomeOperating,10
+"124100 - Statement - Statement of Income, Statement [Table]",OperatingLeasesIncomeStatementLeaseRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",RevenueSteamProductsAndServices,10
+"124100 - Statement - Statement of Income, Statement [Table]",GasDomesticRegulatedRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",LicenseCosts,10
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfGoodsSoldSubscription,10
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnDispositionOfIntangibleAssets,10
+"124100 - Statement - Statement of Income, Statement [Table]",GainLossOnDispositionOfIntangibleAssets,10
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfOtherPropertyOperatingExpense,10
+"124100 - Statement - Statement of Income, Statement [Table]",FoodAndBeverageRevenue,10
+"124100 - Statement - Statement of Income, Statement [Table]",OtherSellingGeneralAndAdministrativeExpense,10
+"124100 - Statement - Statement of Income, Statement [Table]",RevenueFromLeasedAndOwnedHotels,10
+"124100 - Statement - Statement of Income, Statement [Table]",ContractRevenueCost,10
+"124100 - Statement - Statement of Income, Statement [Table]",ProvisionForLoanAndLeaseLosses,10
+"124100 - Statement - Statement of Income, Statement [Table]",ProvisionForDoubtfulAccounts,10
+"124100 - Statement - Statement of Income, Statement [Table]",ProvisionForLoanAndLeaseLosses,10
+"124100 - Statement - Statement of Income, Statement [Table]",ProvisionForDoubtfulAccounts,10
+"124100 - Statement - Statement of Income, Statement [Table]",CostOfRevenue,9
+"124100 - Statement - Statement of Income, Statement [Table]",CostsAndExpenses,9
+"124100 - Statement - Statement of Income, Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,9
+"124100 - Statement - Statement of Income, Statement [Table]",InterestExpense,9
+"124100 - Statement - Statement of Income, Statement [Table]",InterestIncomeOperating,9
+"124100 - Statement - Statement of Income, Statement [Table]",Revenues,9
+"124100 - Statement - Statement of Income, Statement [Table]",OtherNonoperatingIncomeExpense,9
+"124100 - Statement - Statement of Income, Statement [Table]",RevenueSteamProductsAndServices,9
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfFinancingCosts,9
+"124100 - Statement - Statement of Income, Statement [Table]",SalesRevenueNet,9
+"124100 - Statement - Statement of Income, Statement [Table]",OperatingExpenses,9
+"124100 - Statement - Statement of Income, Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,9
+"124100 - Statement - Statement of Income, Statement [Table]",LicensesRevenue,9
+"124100 - Statement - Statement of Income, Statement [Table]",GainsLossesOnExtinguishmentOfDebt,9
+"124100 - Statement - Statement of Income, Statement [Table]",InvestmentIncomeNet,9
+"124100 - Statement - Statement of Income, Statement [Table]",OtherNonoperatingIncome,9
+"124100 - Statement - Statement of Income, Statement [Table]",PremiumsEarnedNet,9
+"124100 - Statement - Statement of Income, Statement [Table]",InterestExpenseDebt,9
+"124100 - Statement - Statement of Income, Statement [Table]",ProvisionForDoubtfulAccounts,9
+"124100 - Statement - Statement of Income, Statement [Table]",ProvisionForDoubtfulAccounts,9
+"124100 - Statement - Statement of Income, Statement [Table]",OtherSalesRevenueNet,9
+"124100 - Statement - Statement of Income, Statement [Table]",GainsLossesOnExtinguishmentOfDebt,9
+"124100 - Statement - Statement of Income, Statement [Table]",OtherNonoperatingExpense,9
+"124100 - Statement - Statement of Income, Statement [Table]",InterestExpenseOther,9
+"124100 - Statement - Statement of Income, Statement [Table]",NonoperatingIncomeExpense,8
+"124100 - Statement - Statement of Income, Statement [Table]",PublicUtilitiesAllowanceForFundsUsedDuringConstructionAdditions,8
+"124100 - Statement - Statement of Income, Statement [Table]",InterestExpenseOther,8
+"124100 - Statement - Statement of Income, Statement [Table]",OtherNonoperatingIncome,8
+"124100 - Statement - Statement of Income, Statement [Table]",InterestExpenseDebt,8
+"124100 - Statement - Statement of Income, Statement [Table]",GainsLossesOnExtinguishmentOfDebt,8
+"124100 - Statement - Statement of Income, Statement [Table]",OtherNonoperatingExpense,8
+"124100 - Statement - Statement of Income, Statement [Table]",AmortizationOfFinancingCosts,8
+"124100 - Statement - Statement of Income, Statement [Table]",InterestExpense,8
+"124100 - Statement - Statement of Income, Statement [Table]",OtherNonoperatingIncomeExpense,8
+"124100 - Statement - Statement of Income, Statement [Table]",CostsAndExpenses,8
+"124100 - Statement - Statement of Income, Statement [Table]",GainsLossesOnExtinguishmentOfDebt,8
+"124100 - Statement - Statement of Income, Statement [Table]",OperatingIncomeLoss,8
+"124100 - Statement - Statement of Income, Statement [Table]",InterestAndDebtExpense,8
+"124100 - Statement - Statement of Income, Statement [Table]",Revenues,8
+"124100 - Statement - Statement of Income, Statement [Table]",InterestAndDebtExpense,7
+"124100 - Statement - Statement of Income, Statement [Table]",NonoperatingIncomeExpense,7
+"124100 - Statement - Statement of Income, Statement [Table]",PublicUtilitiesAllowanceForFundsUsedDuringConstructionAdditions,7
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,7
+"124100 - Statement - Statement of Income, Statement [Table]",OperatingIncomeLoss,7
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,6
+"124100 - Statement - Statement of Income, Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationDuringPhaseOutPeriodBeforeIncomeTax,6
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromEquityMethodInvestments,6
+"124100 - Statement - Statement of Income, Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationDuringPhaseOutPeriodNetOfTax,6
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromEquityMethodInvestments,6
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,6
+"124100 - Statement - Statement of Income, Statement [Table]",DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax,6
+"124100 - Statement - Statement of Income, Statement [Table]",DiscontinuedOperationGainLossFromDisposalOfDiscontinuedOperationBeforeIncomeTax,6
+"124100 - Statement - Statement of Income, Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeTaxExpenseBenefit,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,5
+"124100 - Statement - Statement of Income, Statement [Table]",DiscontinuedOperationTaxEffectOfDiscontinuedOperation,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromEquityMethodInvestments,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromEquityMethodInvestments,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,5
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,4
+"124100 - Statement - Statement of Income, Statement [Table]",NetIncomeLossAttributableToNoncontrollingInterest,4
+"124100 - Statement - Statement of Income, Statement [Table]",ProfitLoss,4
+"124100 - Statement - Statement of Income, Statement [Table]",ProfitLoss,4
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,4
+"124100 - Statement - Statement of Income, Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,4
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,3
+"124100 - Statement - Statement of Income, Statement [Table]",WeightedAverageNumberOfDilutedSharesOutstanding,3
+"124100 - Statement - Statement of Income, Statement [Table]",NetIncomeLoss,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,3
+"124100 - Statement - Statement of Income, Statement [Table]",NetIncomeLoss,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperations,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToNoncontrollingInterest,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperations,3
+"124100 - Statement - Statement of Income, Statement [Table]",WeightedAverageNumberOfDilutedSharesOutstanding,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,3
+"124100 - Statement - Statement of Income, Statement [Table]",WeightedAverageNumberOfSharesOutstandingBasic,3
+"124100 - Statement - Statement of Income, Statement [Table]",EarningsPerShareBasic,3
+"124100 - Statement - Statement of Income, Statement [Table]",EarningsPerShareDiluted,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsPerBasicShare,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsPerBasicShare,3
+"124100 - Statement - Statement of Income, Statement [Table]",IncomeLossFromContinuingOperationsPerDilutedShare,3
+"124100 - Statement - Statement of Income, Statement [Table]",WeightedAverageNumberDilutedSharesOutstandingAdjustment,3
+"124100 - Statement - Statement of Income, Statement [Table]",WeightedAverageNumberDilutedSharesOutstandingAdjustment,3
+"124100 - Statement - Statement of Income, Statement [Table]",PreferredStockDividendsAndOtherAdjustments,3
+"124100 - Statement - Statement of Income, Statement [Table]",NetIncomeLossAvailableToCommonStockholdersBasic,2
+"124100 - Statement - Statement of Income, Statement [Table]",NetIncomeLossAvailableToCommonStockholdersBasic,2
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInPensionPlanObligations,12
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInPensionAndPostretirementObligations,12
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherEmployeeRelatedLiabilities,11
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInEmployeeRelatedLiabilities,11
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnSaleOfDerivatives,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInAccountsPayableTrade,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleOfAvailableForSaleSecuritiesDebt,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfSeniorDebt,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleOfAvailableForSaleSecurities,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",UnrealizedGainLossOnSecurities,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherAccruedLiabilities,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AmortizationOfDebtDiscountPremium,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnSaleOfEquityInvestments,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AmortizationOfFinancingCosts,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInCustomerDeposits,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",MarketableSecuritiesRealizedGainLossExcludingOtherThanTemporaryImpairments,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AmortizationOfFinancingCostsAndDiscounts,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleOfAvailableForSaleSecuritiesEquity,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInAccruedLiabilities,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RestructuringCharges,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RestructuringCharges,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnSaleOfInvestments,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInMarginDepositsOutstanding,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInDeferredFuelCosts,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInInterestPayableNet,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInAccountsPayable,10
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfSecuredDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherOperatingAssets,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherOperatingAssets,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInDeferredLiabilities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherNoncurrentLiabilities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInDeferredCharges,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherReceivables,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfLongTermLinesOfCredit,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PensionAndOtherPostretirementBenefitExpense,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInDeferredRevenueAndCustomerAdvancesAndDeposits,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInDeferredCompensation,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfSeniorLongTermDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ImpairmentOfOilAndGasProperties,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfUnsecuredDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfLongTermDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromLongTermLinesOfCredit,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInPrepaidExpense,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInReceivables,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInDeferredRevenue,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnSaleOfPropertyPlantEquipment,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AdjustmentForAmortization,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherOperatingLiabilities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInDeferredIncomeTaxes,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PensionAndOtherPostretirementBenefitContributions,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AssetImpairmentCharges,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireAvailableForSaleSecuritiesDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfLongTermDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfSecuredDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherCurrentAssets,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInInventories,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInAccountsReceivable,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInAccruedTaxesPayable,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AssetImpairmentCharges,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInAccruedIncomeTaxesPayable,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ShareBasedCompensation,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInFinanceReceivables,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GoodwillImpairmentLoss,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnDispositionOfAssets,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",Depreciation,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",Depreciation,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfAssumedDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherDeferredLiability,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AmortizationOfIntangibleAssets,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInIncomeTaxesReceivable,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",StockOptionPlanExpense,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfOtherLongTermDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RestructuringCosts,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInRetailRelatedInventories,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireAvailableForSaleSecurities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireAvailableForSaleSecurities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnInvestments,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInAccountsAndOtherReceivables,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInPropertyAndOtherTaxesPayable,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnDispositionOfAssets,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfConvertibleDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ImpairmentOfLongLivedAssetsHeldForUse,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AmortizationOfDeferredSalesCommissions,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ImpairmentOfIntangibleAssetsFinitelived,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfUnsecuredDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromConvertibleDebt,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GoodwillImpairmentLoss,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ShareBasedCompensation,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AmortizationOfDeferredSalesCommissions,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireAvailableForSaleSecuritiesEquity,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherCurrentLiabilities,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AmortizationOfIntangibleAssets,9
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToDevelopSoftware,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DeferredIncomeTaxesAndTaxCredits,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DeferredIncomeTaxExpenseBenefit,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DeferredIncomeTaxExpenseBenefit,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInTradingSecurities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherNoncurrentAssetsAndLiabilitiesNet,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleOfPropertyPlantAndEquipment,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",EnvironmentalExpenseAndLiabilities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncomeLossFromEquityMethodInvestments,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromDivestitureOfBusinessesNetOfCashDivested,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DepreciationDepletionAndAmortization,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromShortTermDebt,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfLinesOfCredit,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromLinesOfCredit,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireOtherPropertyPlantAndEquipment,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DepreciationDepletionAndAmortization,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnSaleOfOtherAssets,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",OtherNoncashIncomeExpense,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOtherOperatingCapitalNet,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOperatingLiabilities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfLongTermDebtAndCapitalSecurities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfShortTermDebt,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",EquityMethodInvestmentDividendsOrDistributions,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",OtherNoncashExpense,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncomeLossFromEquityMethodInvestments,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireAdditionalInterestInSubsidiaries,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToExploreAndDevelopOilAndGasProperties,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireInterestInJointVenture,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromShortTermDebtMaturingInMoreThanThreeMonths,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromStockOptionsExercised,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForCapitalImprovements,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnDispositionOfIntangibleAssets,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainLossOnDispositionOfIntangibleAssets,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProvisionForLoanLeaseAndOtherLosses,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromRepaymentsOfShortTermDebtMaturingInThreeMonthsOrLess,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProvisionForLoanLeaseAndOtherLosses,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleAndCollectionOfReceivables,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForSoftware,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",OtherPaymentsToAcquireBusinesses,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireReceivables,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInRestructuringReserve,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProvisionForLoanAndLeaseLosses,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInRestrictedCashForOperatingActivities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireInterestInSubsidiariesAndAffiliates,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireBusinessesNetOfCashAcquired,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfLongTermCapitalLeaseObligations,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProvisionForLoanAndLeaseLosses,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProvisionForOtherLosses,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireMarketableSecurities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireEquityMethodInvestments,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncomeLossFromEquityMethodInvestmentsNetOfDividendsOrDistributions,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInBillingInExcessOfCostOfEarnings,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquirePropertyPlantAndEquipment,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquirePropertyPlantAndEquipment,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AssetRetirementObligationAccretionExpense,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AssetRetirementObligationAccretionExpense,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromDivestitureOfBusinesses,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireHeldToMaturitySecurities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireHeldToMaturitySecurities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AccretionExpense,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleAndMaturityOfMarketableSecurities,8
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireInvestments,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireProductiveAssets,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForRepurchaseOfCommonStock,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfCommonStock,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfDividendsCommonStock,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainsLossesOnExtinguishmentOfDebt,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",GainsLossesOnExtinguishmentOfDebt,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProvisionForDoubtfulAccounts,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProvisionForDoubtfulAccounts,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfWarrants,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfDividendsPreferredStockAndPreferenceStock,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromRepaymentsOfLongTermDebtAndCapitalSecurities,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInBookOverdrafts,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromDivestitureOfBusinessesAndInterestsInAffiliates,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireBusinessesAndInterestInAffiliates,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromRepaymentsOfCommercialPaper,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireOtherInvestments,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForRepurchaseOfPreferredStockAndPreferenceStock,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleOfOtherProductiveAssets,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PublicUtilitiesAllowanceForFundsUsedDuringConstructionAdditions,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromRepaymentsOfRestrictedCashFinancingActivities,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromRepaymentsOfBankOverdrafts,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireProjects,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromOtherDebt,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleAndMaturityOfOtherInvestments,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfPreferredStockAndPreferenceStock,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromLoansReceivable,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOrSaleOfEquity,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RecognitionOfDeferredRevenue,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfLoanCosts,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromIssuanceOfPrivatePlacement,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentsOfOtherDebt,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",InventoryWriteDown,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleMaturityAndCollectionsOfInvestments,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfDividendsMinorityInterest,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToAcquireIntangibleAssets,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForRepurchaseOfWarrants,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfDebtIssuanceCosts,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromStockPlans,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleOfProductiveAssets,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AdjustmentsNoncashItemsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfOrdinaryDividends,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInIncomeTaxesPayableNetOfIncomeTaxesReceivable,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfFinancingCosts,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleOfTreasuryStock,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromRepaymentsOfShortTermDebt,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromSaleOfIntangibleAssets,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInOperatingCapital,7
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfCapitalDistribution,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfStockIssuanceCosts,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncreaseDecreaseInRestrictedCash,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToFundLongtermLoansToRelatedParties,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",DiscontinuedOperationTaxEffectOfDiscontinuedOperation,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromRemovalCosts,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",IncomeLossFromDiscontinuedOperationsNetOfTax,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromMinorityShareholders,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromRepurchaseOfEquity,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromBusinessesAndInterestInAffiliates,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProfitLoss,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProfitLoss,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromProductiveAssets,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromInvestments,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromHedgeInvestingActivities,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromHedgeFinancingActivities,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfDividends,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsToMinorityShareholders,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromPaymentsToMinorityShareholders,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromHedgeFinancingActivities,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentOfFinancingAndStockIssuanceCosts,6
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",RepaymentOfNotesReceivableFromRelatedParties,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsRelatedToTaxWithholdingForShareBasedCompensation,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromOtherInvestingActivities,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",AllowanceForFundsUsedDuringConstructionInvestingActivities,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ExcessTaxBenefitFromShareBasedCompensationFinancingActivities,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromContributionsFromAffiliates,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromInsuranceSettlementInvestingActivities,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsOfDistributionsToAffiliates,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromPaymentsForOtherFinancingActivities,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",ProceedsFromPaymentsForOtherFinancingActivities,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInContinuingOperations,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",PaymentsForProceedsFromOtherInvestingActivities,5
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInFinancingActivities,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInFinancingActivities,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInInvestingActivities,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInInvestingActivities,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInOperatingActivities,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",NetCashProvidedByUsedInOperatingActivities,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations,4
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",EffectOfExchangeRateOnCashAndCashEquivalents,3
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",EffectOfExchangeRateOnCashAndCashEquivalents,3
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashAndCashEquivalentsPeriodIncreaseDecrease,2
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashAndCashEquivalentsPeriodIncreaseDecrease,2
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashAndCashEquivalentsAtCarryingValue,2
+"152200 - Statement - Statement of Cash Flows, Statement [Table]",CashAndCashEquivalentsAtCarryingValue,1
+"172600 - Statement - Statement of Cash Flows, Direct Method Operating Activities, Statement [Table]",InterestPaidCapitalized,5
+"172600 - Statement - Statement of Cash Flows, Direct Method Operating Activities, Statement [Table]",ProceedsFromSaleOfRealEstate,4
+"172600 - Statement - Statement of Cash Flows, Direct Method Operating Activities, Statement [Table]",ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,4
+"172600 - Statement - Statement of Cash Flows, Direct Method Operating Activities, Statement [Table]",NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,3
+"172600 - Statement - Statement of Cash Flows, Direct Method Operating Activities, Statement [Table]",CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations,2
+"172600 - Statement - Statement of Cash Flows, Direct Method Operating Activities, Statement [Table]",NetCashProvidedByUsedInOperatingActivities,2
+"172600 - Statement - Statement of Cash Flows, Direct Method Operating Activities, Statement [Table]",NetCashProvidedByUsedInOperatingActivities,2

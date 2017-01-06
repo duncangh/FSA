@@ -175,8 +175,10 @@ def run():
               'HCN', 'WU', 'WRK', 'WY', 'WHR', 'WFM', 'WMB', 'WLTW', 'WEC', 'WYN',
               'WYNN', 'XEL', 'XLNX', 'XL', 'XYL', 'YHOO', 'YUM', 'ZBH', 'ZION',
               'SPY']
+    
+    
 
-    for sym in symbols:
+    for sym in symbols[:25]:
         es.GetFilings(sym)
         get_financials(sym)
 

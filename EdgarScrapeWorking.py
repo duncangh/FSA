@@ -39,11 +39,11 @@ class GetFilings:
                         }
         print('Scraping {0}'.format(self.ticker_symbol))
         print('Getting 10-Q list...')
-        self.get_10q_list()
+        # self.get_10q_list()
         print('Getting 10-K list...')
         self.get_10k_list()
         print('Getting 10-Q files...')
-        self.get_all_10q()
+        # self.get_all_10q()
         print('Getting 10-K files...')
         self.get_all_10k()
         print('Downloading all files...')
@@ -659,3 +659,4 @@ class GetFilings:
                     os.makedirs(diry)
                 if not self.check_duplicate(diry, fname):
                     urllib.urlretrieve(link[0], '{0}{1}'.format(diry, fname))
+

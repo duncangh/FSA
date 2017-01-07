@@ -43,8 +43,8 @@ def get_financials(symbol):
     xml_10q_path = "{0}/{1}/10-Q/xml".format(settings.EXTRACTED_DATA_PATH, symbol)
     xml_10k_path = "{0}/{1}/10-K/xml".format(settings.EXTRACTED_DATA_PATH, symbol)
 
-    xml_10q_path_stmt = xml_10q_path.replace('extracted_data', 'financials_data')
-    xml_10k_path_stmt = xml_10k_path.replace('extracted_data', 'financials_data')
+    xml_10q_path_stmt = xml_10q_path.replace('extracted_data', 'data')
+    xml_10k_path_stmt = xml_10k_path.replace('extracted_data', 'data')
 
     # Create directories for Financial Data if they do not exist
     if not os.path.exists("{0}/{1}/".format(settings.FINANCIALS_DATA_PATH, symbol)):

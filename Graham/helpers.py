@@ -19,7 +19,7 @@ def make_10ks(symbol):
     dates = os.listdir(raw_path)
 
     for date in dates:
-        path = '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/%s/10-K/xml/%s/' % (symbol, date)
+        path = '/Users/duncangh/PycharmProjects/Edgar/data/data/%s/10-K/xml/%s/' % (symbol, date)
 
         # Make Directories
         make_10k_paths(symbol, date)
@@ -235,7 +235,7 @@ def parse_bs(data):
 
 # For aggregate files
 def all_financials(data, base):
-    base = base.replace("/extracted_data/", "/financials_data/")
+    base = base.replace("/extracted_data/", "/data/")
     stmts = list(data['cal']['roles'].keys())
     for stmt in stmts:
         fname = base + stmt + '.pkl'
@@ -258,7 +258,7 @@ def all_financials(data, base):
 
 def get_files(sym, kind='BalanceSheet'):
     # Get all file names (This gets those for MMM's 10-Qs)
-    root = '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/%s/' % sym
+    root = '/Users/duncangh/PycharmProjects/Edgar/data/data/%s/' % sym
     l = []
     criteria = kind
 
@@ -269,7 +269,7 @@ def get_files(sym, kind='BalanceSheet'):
     return l
 
 def inc_files(sym):
-    root = '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/%s/' % sym
+    root = '/Users/duncangh/PycharmProjects/Edgar/data/data/%s/' % sym
     l = []
 
 

@@ -21,7 +21,7 @@ def make_datetime(df):
 class Aggregate:
     def __init__(self, sym):
         self.symbol = sym
-        self.path = '/Users/duncangh/PycharmProjects/FSA/data/financials_data/%s/10-K/xml/' % sym
+        self.path = '/Users/duncangh/PycharmProjects/FSA/data/data/%s/10-K/xml/' % sym
 
         self.files = self._files()
         self.balance_sheet = self.make_balance_sheet()
@@ -153,7 +153,7 @@ class Aggregate:
 class old2Aggregate:
     def __init__(self, sym):
         self.symbol = sym
-        self.path = '/Users/duncangh/PycharmProjects/FSA/data/financials_data/%s/10-K/xml/' % sym
+        self.path = '/Users/duncangh/PycharmProjects/FSA/data/data/%s/10-K/xml/' % sym
 
         self.files = self._files()
         self.balance_sheet = self.make_balance_sheet()
@@ -248,7 +248,7 @@ class old2Aggregate:
 class OLDAggregate:
     def __init__(self, sym):
         self.symbol = sym
-        self.path = '/Users/duncangh/PycharmProjects/FSA/data/financials_data/%s/10-K/xml/' % sym
+        self.path = '/Users/duncangh/PycharmProjects/FSA/data/data/%s/10-K/xml/' % sym
 
         self.files = self._files()
         self.balance_sheet = self.make_balance_sheet()
@@ -337,7 +337,7 @@ class OLDAggregate:
 class oldv2Aggregate:
     def __init__(self, sym):
         self.symbol = sym
-        self.path = '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/%s/10-K/xml/' % sym
+        self.path = '/Users/duncangh/PycharmProjects/Edgar/data/data/%s/10-K/xml/' % sym
 
         self.files = self._files()
         self.balance_sheet = self.make_balance_sheet()
@@ -425,7 +425,7 @@ class oldAggregate:
 
     def __init__(self, sym):
         self.symbol = sym
-        self.path = '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/%s/10-K/xml/' % sym
+        self.path = '/Users/duncangh/PycharmProjects/Edgar/data/data/%s/10-K/xml/' % sym
 
         self.files = self._files()
         self.balance_sheet = self.make_balance_sheet()
@@ -565,26 +565,26 @@ def combine_10k(trio):
 
 
 
-# files = pd.Series([ '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2009-12-31/StatementOfCashFlowsIndirect.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2009-12-31/StatementOfIncome.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2010-12-31/StatementConsolidatedBalanceSheets.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2010-12-31/StatementConsolidatedStatementsOfCashFlows.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2010-12-31/StatementConsolidatedStatementsOfOperations.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2011-12-31/StatementConsolidatedBalanceSheets.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2011-12-31/StatementConsolidatedStatementsOfCashFlows.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2011-12-31/StatementConsolidatedStatementsOfOperations.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2012-12-31/ConsolidatedBalanceSheets.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2012-12-31/ConsolidatedStatementsOfCashFlows.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2012-12-31/ConsolidatedStatementsOfOperations.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2013-12-31/ConsolidatedBalanceSheets.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2013-12-31/ConsolidatedStatementsOfCashFlows.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2013-12-31/ConsolidatedStatementsOfOperations.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2014-12-31/ConsolidatedBalanceSheets.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2014-12-31/ConsolidatedStatementsOfCashFlows.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2014-12-31/ConsolidatedStatementsOfOperations.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2015-12-31/ConsolidatedBalanceSheets.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2015-12-31/ConsolidatedStatementsOfCashFlows.pkl',
-#  '/Users/duncangh/PycharmProjects/Edgar/data/financials_data/NFLX/10-K/xml/2015-12-31/ConsolidatedStatementsOfOperations.pkl'])
+# files = pd.Series([ '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2009-12-31/StatementOfCashFlowsIndirect.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2009-12-31/StatementOfIncome.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2010-12-31/StatementConsolidatedBalanceSheets.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2010-12-31/StatementConsolidatedStatementsOfCashFlows.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2010-12-31/StatementConsolidatedStatementsOfOperations.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2011-12-31/StatementConsolidatedBalanceSheets.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2011-12-31/StatementConsolidatedStatementsOfCashFlows.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2011-12-31/StatementConsolidatedStatementsOfOperations.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2012-12-31/ConsolidatedBalanceSheets.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2012-12-31/ConsolidatedStatementsOfCashFlows.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2012-12-31/ConsolidatedStatementsOfOperations.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2013-12-31/ConsolidatedBalanceSheets.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2013-12-31/ConsolidatedStatementsOfCashFlows.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2013-12-31/ConsolidatedStatementsOfOperations.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2014-12-31/ConsolidatedBalanceSheets.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2014-12-31/ConsolidatedStatementsOfCashFlows.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2014-12-31/ConsolidatedStatementsOfOperations.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2015-12-31/ConsolidatedBalanceSheets.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2015-12-31/ConsolidatedStatementsOfCashFlows.pkl',
+#  '/Users/duncangh/PycharmProjects/Edgar/data/data/NFLX/10-K/xml/2015-12-31/ConsolidatedStatementsOfOperations.pkl'])
 # bal = files[files.str.contains('Balance')]
 #
 # df = pd.read_pickle(file)

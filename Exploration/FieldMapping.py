@@ -8,7 +8,7 @@ pd.set_option('mode.chained_assignment', None)
 pd.set_option('display.width', 1500)
 
 
-symbols = np.array(os.listdir('/Users/duncangh/PycharmProjects/FSA/data/financials_data/')[1:])
+symbols = np.array(os.listdir('/Users/duncangh/PycharmProjects/FSA/data/data/')[1:])
 
 def cash_flows_fields(symbols=symbols):
     fields = []

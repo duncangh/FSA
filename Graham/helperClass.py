@@ -14,7 +14,7 @@ class Financial:
 
     def __init__(self, data, path):
         self.data = data
-        self.path = path.replace("/extracted_data/", "/financials_data/")
+        self.path = path.replace("/extracted_data/", "/data/")
 
         self.iterate_keys()
 

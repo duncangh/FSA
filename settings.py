@@ -6,7 +6,7 @@
 MAIN_DATA_DIR = 'data'
 RAW_DATA_DIR = 'raw_data'
 EXTRACTED_DATA_DIR = 'extracted_data'
-FINANCIALS_DIR = 'financials_data'
+FINANCIALS_DIR = 'data'
 
 # Path Names
 RAW_DATA_PATH = "{0}/{1}".format(MAIN_DATA_DIR, RAW_DATA_DIR)

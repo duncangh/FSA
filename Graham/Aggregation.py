@@ -21,7 +21,7 @@ def make_datetime(df):
 class Aggregate:
     def __init__(self, sym):
         self.symbol = sym
-        self.path = '/Users/duncangh/PycharmProjects/FSA/data/data/%s/10-K/xml/' % sym
+        self.path = '/Users/duncangh/PycharmProjects/FSA/data/financials_data/%s/10-K/xml/' % sym
 
         self.files = self._files()
         self.balance_sheet = self.make_balance_sheet()

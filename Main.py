@@ -19,7 +19,8 @@ def run(sym):
     except:
         print('Error')
 
-a = run('AMZN')
+run('NVDA')
+
 
 
 

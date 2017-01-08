@@ -2,14 +2,13 @@
 
 #### The primary purpose of this project is to facilitate the transfer of SEC EDGAR Filings' Financial Data into custom financial statement analysis models. 
 
-
-At present, I have extracted the Income Statement, Balance Sheet and Statement of Cash Flows from the 10-K filings of 68 S&P 500 
-companies. The statements are stored in .pkl format in order to provide for streamlined conversion into pandas objects. 
+# Financial Statements
+At present, I have extracted the Income Statement, Balance Sheet and Statement of Cash Flows from the 10-K filings of 68 S&P 500 companies. The statements are stored in .pkl format in order to provide for streamlined conversion into pandas objects. 
 
 While a centralized database of pandas friendly financial statements is nice; it doesn't represent any signifcant progress. 
-Accordingly, I have begun the implementation of statement standardization in order to facilitate batch comparison and multi-method
-valuation of equities simultaneously. 
+Accordingly, I have begun the implementation of statement standardization in order to facilitate batch comparison and multi-method valuation of equities simultaneously. 
 
+# Fundamental Analysis of Equities
 Currently, the extraction of key features from each statement has been implemented and combined in order to provide a summary
 glance at important equity characteristics. For example, the high level API (callable from program run.py) will yield this
 for the equity NVDA:

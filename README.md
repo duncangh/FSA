@@ -1,6 +1,6 @@
 # FSA
 
-# The primary purpose of this project is to facilitate the transfer of SEC EDGAR Filings' Financial Data into custom financial statement analysis models. 
+#### The primary purpose of this project is to facilitate the transfer of SEC EDGAR Filings' Financial Data into custom financial statement analysis models. 
 
 
 At present, I have extracted the Income Statement, Balance Sheet and Statement of Cash Flows from the 10-K filings of 68 S&P 500 
@@ -14,16 +14,16 @@ Currently, the extraction of key features from each statement has been implement
 glance at important equity characteristics. For example, the high level API (callable from program run.py) will yield this
 for the equity NVDA:
 
-          FCFE      FCFF  Cost_Debt  Cost_Equity      WACC  Weight_Debt  Weight_Equity
-2008   930.837   969.592   0.000000     5.188809  3.978022     0.235391       0.764609
-2009   154.982   114.729   0.045071     5.188809  3.978022     0.235391       0.764609
-2010  -178.408  -206.046   0.495535     5.188809  4.354444     0.177779       0.822221
-2011  -147.681  -141.953   0.282578     5.188809  3.990962     0.244148       0.755852
-2012   -44.572    25.726   0.251364     5.188809  4.174294     0.205474       0.794526
-2013   -34.864    54.133   0.226835     5.188809  4.182526     0.202799       0.797201
-2014  -201.042  -134.362   0.361625     5.188809  3.467356     0.356616       0.643384
-2015   712.660   887.195   1.529704     5.188809  3.869820     0.360468       0.639532
-2016  1926.267  2106.267   1.471730     5.188809  3.819995     0.368250       0.631750
+                    FCFE      FCFF  Cost_Debt  Cost_Equity      WACC  Weight_Debt  Weight_Equity
+          2008   930.837   969.592   0.000000     5.188809  3.978022     0.235391       0.764609
+          2009   154.982   114.729   0.045071     5.188809  3.978022     0.235391       0.764609
+          2010  -178.408  -206.046   0.495535     5.188809  4.354444     0.177779       0.822221
+          2011  -147.681  -141.953   0.282578     5.188809  3.990962     0.244148       0.755852
+          2012   -44.572    25.726   0.251364     5.188809  4.174294     0.205474       0.794526
+          2013   -34.864    54.133   0.226835     5.188809  4.182526     0.202799       0.797201
+          2014  -201.042  -134.362   0.361625     5.188809  3.467356     0.356616       0.643384
+          2015   712.660   887.195   1.529704     5.188809  3.869820     0.360468       0.639532
+          2016  1926.267  2106.267   1.471730     5.188809  3.819995     0.368250       0.631750
 
 
 # Macroeconomic Data

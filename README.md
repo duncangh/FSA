@@ -25,6 +25,11 @@ for the equity NVDA:
           2016  1926.267  2106.267   1.471730     5.188809  3.819995     0.368250       0.631750
 
 
+# Valuation Models
+In development. Planning on implementing DCF equity and DCF enterprise valuation methods. Need a concrete methodology for
+forecasting cash flows first. 
+
+
 # Macroeconomic Data
 
 I have located my Macroeconomics textbook as well as an awesome St. Louis Fed API and am working to provide cross sectional

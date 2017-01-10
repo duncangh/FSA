@@ -26,8 +26,13 @@ for the equity NVDA:
 
 
 # Valuation Models
-In development. Planning on implementing DCF equity and DCF enterprise valuation methods. Need a concrete methodology for
-forecasting cash flows first. 
+In development. Planning on implementing DCF equity and DCF enterprise valuation methods. Currently, there are only two 
+primary impediments to the development of this functionality:
+  
+  1. Smooth Out Volatile (at least not consistently volatile) Free Cash Flows. This is especially problematic in tech 
+     companies. Obviously this is a prerequisite for forecasting future cash flows. 
+  2. Forecasting future operational/core business cash flow generation. 
+
 
 
 # Macroeconomic Data
@@ -35,5 +40,37 @@ forecasting cash flows first.
 I have located my Macroeconomics textbook as well as an awesome St. Louis Fed API and am working to provide cross sectional
 Analysis of the larger scale economy. This will include not only economic indicators, but also panel data structures composed
 of standardized, critical components from equity financial statements, such as Net Income, Operating Expenses, Revenues, 
-Debt Funding, Equity funding, and capital expenditues. Viewing the aggregate allocation of capital by publicly traded firms will
-be a good compliment to the performance of individual equities as well as to the trends observed in the macro economic scope. 
+Debt Funding, Equity funding, and capital expenditues. Viewing the aggregate allocation of capital by publicly traded firms will be a good compliment to the performance of individual equities as well as to the trends observed in the macro economic scope. 
+
+# Aggregate Financial Statements Index
+The S&P 500 Index is a value weighted index. This means that the S&P 500 will proportionately reflect the prices of its 
+constituents. This is a useful barometer for market performance, undoubtedly, but I am interested in knowing more about how the market is allocating capital. Therefore, I think it would be useful construct value weighted financial statement index. 
+
+What is a value weighted financial statement index? It is the same thing as a value weighted price index, only it is composed
+of more detailed (and in my opinion, pertinent) data rather than relying solely on the price of the equities. Since every 
+equity in the S&P 500 is going to have the 3 main financial statements (each having at least the same categorical values, despite field specific name variance), I think it would be extremely useful to construct a simplistic aggregate statement to 
+summarize the index wide financial situation, performance and cash flows during a given period, or at a specific instance. 
+
+For example, suppose we have a three stock index composed of GGG, HHH, DDD. The market caps for these equities is as follows:
+    
+    Market Cap
+GGG    1000
+HHH    2000
+DDD    500
+
+They also reported the following income statement results in their most recent 10-K filing:
+
+     GGG  HHH DDD
+Rev  100  200  50
+GP    75  100  40
+EBIT  25   50 -10
+NI    10   40  -5
+
+From this data we can construct a value weighted income statement index to accompany the index price:
+      Index
+Rev    150
+GP     84
+EBIT   34
+NI     25
+
+

@@ -53,24 +53,25 @@ summarize the index wide financial situation, performance and cash flows during 
 
 For example, suppose we have a three stock index composed of GGG, HHH, DDD. The market caps for these equities is as follows:
     
-    Market Cap
-GGG    1000
-HHH    2000
-DDD    500
+            Mkt Cap
+      DDD     2500
+      GGG     2500
+      HHH     5000
 
 They also reported the following income statement results in their most recent 10-K filing:
 
-     GGG  HHH DDD
-Rev  100  200  50
-GP    75  100  40
-EBIT  25   50 -10
-NI    10   40  -5
+             DDD    GGG    HHH
+      Rev   50.0  100.0  200.0
+      GP    40.0   75.0  100.0
+      EBIT -10.0   25.0   50.0
+      NI    -5.0   10.0   40.0
 
 From this data we can construct a value weighted income statement index to accompany the index price:
-      Index
-Rev    150
-GP     84
-EBIT   34
-NI     25
+
+               Index 
+      Rev     137.50
+      GP       78.75
+      EBIT     28.75
+      NI       21.25
 
 

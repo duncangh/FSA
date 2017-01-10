@@ -19,7 +19,7 @@ def run(sym):
     except:
         print('Error')
 
-run('NVDA')
+run('NFLX')
 
 
 
